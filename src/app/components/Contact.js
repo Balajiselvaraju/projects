@@ -27,21 +27,26 @@ function Contact() {
           <div className="contact-info" >
 
             <div className="info-box" >
+            <div class="icon">📞</div>
               <h4>Call Us</h4>
               <p>+91 99627 64888</p>
             </div>
 
             <div className="info-box">
+            <div class="icon">✉</div>
+          
               <h4>Email</h4>
               <p>hr@ragadesigners.com</p>
             </div>
 
             <div className="info-box" >
+           <div class="icon">📍</div>
               <h4>Location</h4>
              <p>No. 14 / 28, 1st Floor, shanti Nagar Korattur, Chennai - 600050.</p>
             </div>
 
             <div className="info-box">
+            <div class="icon">⏰</div>
               <h4>Hours</h4>
               <p>Mon - Fri: 9AM - 6PM</p>
             </div>
